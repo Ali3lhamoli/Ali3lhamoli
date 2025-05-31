@@ -14,8 +14,7 @@
 
 ## 👨‍💻 About Me:
 
-- 🎓 Bachelor's Degree in Communication & Computers Engineering from Tanta Higher Institute (2019–2024)  
-- 🧠 GPA: 2.44 — Graduation Projects: A+  
+- 🎓 Bachelor's Degree in Communication & Computers Engineering
 - 💼 Currently working as a Backend Developer @ Dyno Tech  
 - 🔧 Strong background in PHP, Laravel, MySQL, REST APIs  
 - 💡 Passionate about writing clean, scalable, and maintainable code using MVC and SOLID principles  
@@ -25,97 +24,42 @@
 
 ## 🔗 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/-Ali%20Al-Hamoli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-alhamoli)  
-[![GitHub](https://img.shields.io/badge/-Ali3lhamoli-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali3lhamoli)  
-📧 Email: alialhamoli475@gmail.com  
-📱 Phone: 0115-191-5789  
+<a href="https://linkedin.com/in/ali-alhamoli" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://github.com/Ali3lhamoli" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Ali3lhamoli-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+</a>
+<a href="https://wa.me/201151915789" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+</a>
+<a href="https://t.me/Ali3lhamoli" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-Message-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+</a>
+
+📧 **Email:** alialhamoli475@gmail.com
+
+
 
 ---
 
 ## 🛠 Tech Stack:
 
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-05122A?style=flat)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-
----
-
-## 📂 Featured Projects:
-
-### 🔹 [Sharikna App](https://github.com/Ali3lhamoli) — *PHP, MySQL*
-> Innovative mobile app for data sharing & group collaboration  
-> 🔹 Real-time communication | Group chat | Business features  
-> 🔹 Scalable backend with clean architecture
-
-### 🔹 [Clinic Website](https://github.com/Ali3lhamoli)
-> Online medical system for booking & managing appointments  
-> 🔹 Admin dashboard | Doctor management | Appointment system  
-> 🔹 Built using Laravel (MVC)
-
-### 🔹 [Social Networking Platform](https://github.com/Ali3lhamoli)
-> Laravel-based platform with user posts, likes, and comments  
-> 🔹 Authentication | Real-time alerts | Clean backend design
-
-### 🔹 [Book Borrowing System](https://github.com/Ali3lhamoli)
-> Web system for libraries to manage book lending  
-> 🔹 Borrow/return system | Admin panel | Data integrity
-
-### 🔹 [PNT Delivery Platform](https://github.com/Ali3lhamoli)
-> Large-scale delivery app system (multi-dashboard)  
-> 🔹 Drivers' backend | Delivery tasks | Notifications & RESTful APIs
-
----
-
-## 💼 Experience:
-
-### 🔸 Dyno Tech — *Backend Developer (Hybrid)*  
-📍 Tanta | 🗓 March 2025 – Present  
-- Building RESTful APIs using Laravel  
-- Authentication, authorization, debugging, testing  
-- Working with MySQL and backend logic
-
-### 🔸 DeveTechno — *Backend Developer (On-site)*  
-📍 Tanta | 🗓 Oct 2024 – Feb 2025  
-- Built backend services for mobile apps with Laravel  
-- Integrated Firebase & real-time features  
-- Collaborated with frontend & Flutter teams
-
----
-
-## 🎓 Education:
-
-**Tanta Higher Institute of Engineering and Technology**  
-📍 Gharbia | 🗓 2019 – 2024  
-- Bachelor of Communication & Computers Engineering  
-- GPA: 2.44  
-- Graduation Projects: A+
-
----
-
-## 💬 Soft Skills:
-
-- ✔️ Problem Solving
-- ✔️ Communication
-- ✔️ Team Collaboration
-- ✔️ Time Management
-- ✔️ Adaptability
-- ✔️ Leadership
-- ✔️ Attention to Detail
-
----
-
-## 🌐 Languages:
-
-- 🇪🇬 Arabic: Native  
-- 🇬🇧 English: Very Good
+<a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=api&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 
 ---
 
