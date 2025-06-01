@@ -14,6 +14,8 @@
 
 ## <img src = "https://github.com/Ali3lhamoli/Ali3lhamoli/blob/main/about_me.gif" width = 6.5%> About me
 
+<img align="right" src = "https://github.com/Ali3lhamoli/Ali3lhamoli/blob/main/Right_Side.gif" width = 250px>
+
 - 🎓 Bachelor's Degree in Communication & Computers Engineering
 - 💼 Currently working as a Backend Developer @ Dyno Tech  
 - 🔧 Strong background in PHP, Laravel, MySQL, REST APIs  
@@ -22,7 +24,7 @@
 
 <img width="100%" src="https://github.com/Ali3lhamoli/Ali3lhamoli/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-## 🔗 Connect with Me:
+## <img src = "https://github.com/Ali3lhamoli/Ali3lhamoli/blob/main/Connect-with-me.gif" width = 10%> Connect with Me:
 
 <a href="https://linkedin.com/in/ali-alhamoli" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -41,7 +43,7 @@
 
 <img width="100%" src="https://github.com/Ali3lhamoli/Ali3lhamoli/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-## 🛠 Tech Stack:
+## <img src = "https://github.com/Ali3lhamoli/Ali3lhamoli/blob/main/computer.gif" width = 8%> Tech Stack:
 
 <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
@@ -61,6 +63,9 @@
 
 <img width="100%" src="https://github.com/Ali3lhamoli/Ali3lhamoli/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-> *“The best way to predict the future is to create it.”* – Peter Drucker  
-> 🌟 *Let’s build something amazing together!*
+<p align = "center">
+“The best way to predict the future is to create it.”
+  <br>
+🌟 Let’s build something amazing together!
+</p>
 
