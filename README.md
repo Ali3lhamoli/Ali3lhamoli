@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" />
+<img width="100%" src="https://github.com/Ali3lhamoli/Ali3lhamoli/blob/main/waves.svg" />
 
 <h3 align="center">
   Welcome to Ali Al-Hamoli's Profile!
@@ -7,12 +7,12 @@
 
 <!-- Typing effect -->
 <p align="center">
-  <a href="https://github.com/Ali3lhamoli"><img src="https://readme-typing-svg.herokuapp.com/?lines=Laravel%20Backend%20Developer;Clean%20Code%20Advocate;RESTful%20API%20Designer;Always%20Learning%20and%20Building&font=Fira%20Code&center=true&width=500&height=45&color=0F62FE&vCenter=true&size=22"></a>
+  <a href="https://github.com/Ali3lhamoli"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;Clean%20Code%20Advocate;RESTful%20API%20Designer;Always%20Learning%20and%20Building&font=Fira%20Code&center=true&width=500&height=45&color=0F62FE&vCenter=true&size=22"></a>
 </p>
 
----
+<img width="100%" src="https://github.com/Ali3lhamoli/Ali3lhamoli/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-## 👨‍💻 About Me:
+## <img src = "https://github.com/Ali3lhamoli/Ali3lhamoli/blob/main/about_me.gif" width = 6.5%> About me
 
 - 🎓 Bachelor's Degree in Communication & Computers Engineering
 - 💼 Currently working as a Backend Developer @ Dyno Tech  
@@ -20,7 +20,7 @@
 - 💡 Passionate about writing clean, scalable, and maintainable code using MVC and SOLID principles  
 - 🌍 Based in: **Cairo, Egypt**  
 
----
+<img width="100%" src="https://github.com/Ali3lhamoli/Ali3lhamoli/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 🔗 Connect with Me:
 
@@ -39,9 +39,7 @@
 
 📧 **Email:** alialhamoli475@gmail.com
 
-
-
----
+<img width="100%" src="https://github.com/Ali3lhamoli/Ali3lhamoli/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 🛠 Tech Stack:
 
@@ -61,7 +59,7 @@
 <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 
----
+<img width="100%" src="https://github.com/Ali3lhamoli/Ali3lhamoli/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 > *“The best way to predict the future is to create it.”* – Peter Drucker  
 > 🌟 *Let’s build something amazing together!*
