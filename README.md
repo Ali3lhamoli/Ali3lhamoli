@@ -69,3 +69,76 @@
 🌟 Let’s build something amazing together!
 </p>
 
+<img width="100%" src="https://github.com/Ali3lhamoli/Ali3lhamoli/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
+
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali3lhamoli&theme=tokyonight_duo" alt="Ali3lhamoli" /></p>
+
+</details>
+  
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+----
+	
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="Ali3lhamoli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ali3lhamoli&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali3lhamoli&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Ali3lhamoli" height="230px"/>
+<br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
+----
+	
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali3lhamoli&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true">
+ 
+</details>
+
+<details><summary> <h3> :trophy: GitHub Trophies </h3></summary>
+
+----
+	
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ali3lhamoli&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Ali3lhamoli" /></a> </p>
+
+</details>
+
+<details><summary><h3> :open_file_folder: Featured Repositories </h3></summary>
+
+----
+
+<div>
+  <p align="center">
+	<a href="https://github.com/Ali3lhamoli/Book-Borrowing-System">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali3lhamoli&repo=data_sharing_organizing_php&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Ali3lhamoli/Clinic-Website">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali3lhamoli&repo=Book-Borrowing-System&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Ali3lhamoli/Delivery-Platform">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali3lhamoli&repo=social-networking-platform&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Ali3lhamoli/Payment-Integration">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali3lhamoli&repo=Clinic&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Ali3lhamoli/Payment-Integration">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali3lhamoli&repo=bookStore&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Ali3lhamoli/Payment-Integration">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali3lhamoli&repo=paypal_integration&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Ali3lhamoli/Payment-Integration">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali3lhamoli&repo=Product-Management&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </p>
+</div>
+</details>
+
